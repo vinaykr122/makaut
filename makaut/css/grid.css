@@ -1,0 +1,17 @@
+/*h4 {
+  margin-top: 25px;
+}*/
+.row {
+  /*margin-bottom: 20px;*/
+}
+.row .row {
+  margin-top:15px;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  /*padding-top: 5px;
+  padding-bottom: 5px;
+  color:#404546;*/
+  font-weight:400;
+ /* font-size:16px;*/
+}
